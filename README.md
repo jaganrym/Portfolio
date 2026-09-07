@@ -19,6 +19,6 @@ Throughout my journey, I have scaled security operations from the ground up—le
 ### 📬 Let's Connect
 I am always open to discussing the future of decentralized identity, AI threat modeling, and scaling global security programs. 
 
-*   💼 [LinkedIn](Your-Link-Here)
-*   📧 [Email](Your-Email-Here)
+*   💼 [LinkedIn](https://www.linkedin.com/in/jaganmr/)
+*   📧 [Email](jagan.rym@gmail.com)
 *   📝 [Download My Resume](Your-Link-Here)
