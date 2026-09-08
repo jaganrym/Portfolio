@@ -1,8 +1,8 @@
 # 👋 About Me
 
-I am an **Enterprise Security Architect and Technology Leader** with over **20 years of global experience** driving secure cloud transformations. My career is defined by building resilient infrastructure at the intersection of **Identity Governance & Administration (IGA), Zero Trust Architecture, and Next-Gen Cyber Defence**.
+I am an **Enterprise Security Architect and Technology Leader** with over **20 years of global experience** driving secure cloud transformations. My career is defined by building resilient infrastructure at the intersection of **Identity and Access managment (IAM) Identity Governance & Administration (IGA), SIEM, Cloud Security, GRC, Zero Trust Architecture, and Next-Gen Cyber Defence**.
 
-Currently, I specialize in bridging the gap between traditional identity management and emerging **Agentic AI ecosystems**. I design blueprints for AI-to-AI trust relationships, safeguard non-human identities (NHIs), and engineer defenses against complex agentic vectors like Indirect Prompt Injections and identity takeovers.
+Currently, I am focusing on  bridging the gap between traditional identity management and emerging **Agentic AI ecosystems**, and use AI to enhance cybersecurity, detecting and fixing threats at machine speed, while also securing AI and Agentic AI architectures. I design blueprints for AI-to-AI trust relationships, safeguard non-human identities (NHIs), and engineer defenses against complex agentic vectors like Indirect Prompt Injections and identity takeovers.
 
 Throughout my journey, I have scaled security operations from the ground up—leading high-performing teams, directing **$40M enterprise IAM initiatives**, and shrinking operational response times by **70%**. I view security not as a bottleneck, but as an innovation catalyst that enables organizations to adopt cutting-edge technology safely.
 
