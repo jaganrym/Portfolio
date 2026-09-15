@@ -18,13 +18,16 @@ Currently, focusing on bridging the gap between traditional identity management 
 *   **Security & Detection:** Microsoft Sentinel (SIEM), Defender XDR Suite, CSPM, Open Policy Agent (OPA)
 *   **Specialized Domains:** Ephemeral Credentials, Just-In-Time (JIT) Access, Non-Human Identities (NHIs), AI Governance (ISO/IEC 42001)
 
-## Selected Career Highlights
+## ⭐ Selected Career Highlights
 * **90% Reduction** in access-related service tickets through automated provisioning and IGA transformation.
 * **70% Decrease** in access-related security risks, significantly strengthening enterprise compliance.
 * **80%+ Improvement** in overall CSPM and identity security posture for major enterprise clients.
 
-## Key Projects & Programs
+## 💼 Key Projects & Programs
 
+### Cybersecurity Program Engagement & Operations
+* **Managed a multi-million dollar cybersecurity engagement** for a major US Healthcare client, overseeing end-to-end delivery across IAM/IGA, Cloud Security, GRC, Email Security, and Network Security.
+  
 ### Enterprise Identity & Cloud Migration (Demerger Framework)
 * **Led end-to-end transformation programs** migrating Active Directory to Active Directory and AD to Entra ID, facilitating seamless infrastructure separation for a major corporate demerger.
 * **Orchestrated the migration** of mission-critical on-premises data center workloads to Azure Cloud, including core infrastructure services (DNS, DHCP, FTP, and DFS).
@@ -46,13 +49,9 @@ Currently, focusing on bridging the gap between traditional identity management 
 * **Authored the strategic roadmap and led the deployment** of Saviynt to replace legacy Microsoft Identity Manager (MIM) infrastructure.
 * **Modernized the enterprise IGA capabilities** by embedding advanced features including dynamic JML provisioning, Role-Based Access Control (RBAC), Privileged Access Management (PAM), automated access certifications, and SOD matrices.
 
-### Cybersecurity Program Engagement & Operations
-* **Managed a multi-million dollar cybersecurity engagement** for a major US Healthcare client, overseeing end-to-end delivery across IAM/IGA, Cloud Security, GRC, Email Security, and Network Security.
-
-## Key Problems Solved
+## 🎯Key Problems Solved
 * **Access Certification Fatigue:** Re-engineered and automated compliance workflows to eliminate reviewer fatigue while maintaining rigorous audit readiness.
 * **Uncontrolled Privilege Creep:** Successfully enforced standardized **Role-Based Access Control (RBAC)** and **Least-Privileged Access** frameworks across all enterprise application suites.
-
 
 ### 📬 Let's Connect
 I am always open to discussing the future of decentralized identity, AI threat modeling, and scaling global security programs. 
