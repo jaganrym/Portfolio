@@ -1,8 +1,8 @@
 # 👋 About Me
 
-Seasoned **IT Leader and Cybersecurity Executive** with over **20 years of experience**, including a decade-long focus on safeguarding enterprise environments. My expertise lies at the intersection of **Cybersecurity Strategy, Identity & Access Management (IAM), and Enterprise Architecture**, with a proven track record of steering complex **mergers, acquisitions (M&A), and demergers**.
+Seasoned **IT and Cybersecurity Leader** with over **20 years of experience**, including a decade-long focus on safeguarding enterprise environments. My expertise lies at the intersection of **Cybersecurity Strategy, Identity & Access Management (IAM), and Enterprise Architecture**, with a proven track record of steering complex **Cybersecurity transformation programs, mergers & acquisitions (M&A),demergers**.
 
-Scaled security operations from the ground up—leading high-performing teams, directing **$40M enterprise IAM initiatives**. Specialized in breaking down architectural complexity, eliminating operational overhead, and building agile, highly secure systems across hybrid and multi-cloud environments. 
+Scaled security operations from the ground up—leading high-performing teams, directing **$40M enterprise Cybersecurity initiatives**. Implemented enterprise-wide **Zero Trust architectures** to drive business resilience, mitigate enterprise risk. Specialized in breaking down architectural complexity, eliminating operational overhead, and building agile, highly secure systems across **hybrid and multi-cloud** environments. 
 
 Currently, focusing on bridging the gap between traditional identity management and emerging **Agentic AI ecosystems**, and use AI to enhance cybersecurity, detecting and fixing threats at machine speed, while also securing AI and Agentic AI architectures. I design blueprints for AI-to-AI trust relationships, safeguard non-human identities (NHIs), and engineer defenses against complex agentic vectors like Indirect Prompt Injections and identity takeovers.
 
