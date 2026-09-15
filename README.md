@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Seasoned **IT and Cybersecurity Leader** with over **20 years of experience**, including a decade-long focus on safeguarding enterprise environments. My expertise lies at the intersection of **Cybersecurity Strategy, Identity & Access Management (IAM), and Enterprise Architecture**, with a proven track record of steering complex **Cybersecurity transformation programs, mergers & acquisitions (M&A),demergers**.
+Seasoned **IT and Cybersecurity Leader** with over **20 years of experience**, including a decade-long focus on safeguarding enterprise environments. My expertise lies at the intersection of **Cybersecurity Strategy, Identity & Access Management (IAM), and Enterprise Architecture**, with a proven track record of Managing Large **Cyberseucurity Engagments**, steering complex **transformation programs, mergers & acquisitions (M&A),demergers**.
 
 Scaled security operations from the ground up—leading high-performing teams, directing **$40M enterprise Cybersecurity initiatives**. Implemented enterprise-wide **Zero Trust architectures** to drive business resilience, mitigate enterprise risk. Specialized in breaking down architectural complexity, eliminating operational overhead, and building agile, highly secure systems across **hybrid and multi-cloud** environments. 
 
