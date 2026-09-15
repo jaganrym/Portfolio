@@ -13,7 +13,7 @@ Currently, focusing on bridging the gap between traditional identity management 
 * **Identity Governance & Cloud Security:** Leading large-scale IGA transformations and optimizing Cloud Security Posture Management (CSPM).
 * **Executive Strategy & GRC:** Translating complex cyber risks into strategic roadmaps for senior stakeholders, ensuring absolute compliance with global frameworks like NIST CSF,ISO 27001 and CIS Benchmarks.
 
-* ### 🛠️ Tech Stack & Focus Areas
+### 🛠️ Tech Stack & Focus Areas
 *   **Identity & Governance:** Microsoft Entra ID (Agent ID), SailPoint, Saviynt, Active Directory, JML, SSO/MFA
 *   **Security & Detection:** Microsoft Sentinel (SIEM), Defender XDR Suite, CSPM, Open Policy Agent (OPA)
 *   **Specialized Domains:** Ephemeral Credentials, Just-In-Time (JIT) Access, Non-Human Identities (NHIs), AI Governance (ISO/IEC 42001)
