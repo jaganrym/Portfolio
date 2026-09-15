@@ -7,10 +7,10 @@ Scaled security operations from the ground up—leading high-performing teams, d
 Currently, focusing on bridging the gap between traditional identity management and emerging **Agentic AI ecosystems**, and use AI to enhance cybersecurity, detecting and fixing threats at machine speed, while also securing AI and Agentic AI architectures. I design blueprints for AI-to-AI trust relationships, safeguard non-human identities (NHIs), and engineer defenses against complex agentic vectors like Indirect Prompt Injections and identity takeovers.
 
 ## 🚀Core Expertise
+* **Enterprise Portfolio Management:** End-to-end oversight of IAM, SIEM, GRC, Network, and Email Security for high-stakes industries like Healthcare, BFSI and manufacturing.
 * **M&A Security Integration:** Streamlining operations, managing talent/tool redundancy, and securing infrastructure during corporate transitions.
 * **Zero Trust & AI Security Architecture:** Architecting context-aware authorization, Policy-as-Code (PaC) via OPA, and ephemeral credentialing systems to securely govern multi-agent environments.
 * **Identity Governance & Cloud Security:** Leading large-scale IGA transformations and optimizing Cloud Security Posture Management (CSPM).
-* **Enterprise Portfolio Management:** End-to-end oversight of IAM, SIEM, GRC, Network, and Email Security for high-stakes industries like Healthcare.
 * **Executive Strategy & GRC:** Translating complex cyber risks into strategic roadmaps for senior stakeholders, ensuring absolute compliance with global frameworks like NIST CSF,ISO 27001 and CIS Benchmarks.
 
 * ### 🛠️ Tech Stack & Focus Areas
