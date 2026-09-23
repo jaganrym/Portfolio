@@ -23,35 +23,36 @@ Currently, focusing on bridging the gap between traditional identity management 
 * **70% Decrease** in access-related security risks, significantly strengthening enterprise compliance.
 * **80%+ Improvement** in overall CSPM and identity security posture for major enterprise clients.
 
-## 💼 Key Projects & Programs
+# 📂 Key Projects & Portfolio Highlights
 
-### Cybersecurity Program Engagement & Operations
-* **Managed a multi-million dollar cybersecurity engagement** for a major US Healthcare client, overseeing end-to-end delivery across IAM/IGA, Cloud Security, GRC, Email Security, and Network Security.
-  
-### Enterprise Identity & Cloud Migration (Demerger Framework)
-* **Led end-to-end transformation programs** migrating Active Directory to Active Directory and AD to Entra ID, facilitating seamless infrastructure separation for a major corporate demerger.
-* **Orchestrated the migration** of mission-critical on-premises data center workloads to Azure Cloud, including core infrastructure services (DNS, DHCP, FTP, and DFS).
+### ⚡ Demergers, Mergers & Acquisitions (M&A) Transformation
+*   **End-to-End Infrastructure & Cloud Migration:** Orchestrated the seamless split and migration of legacy environments for a major corporate demerger. Led **Active Directory (AD) to AD** and **AD to Entra ID** migrations, transitioning on-premises datacenters to **Azure Cloud**. Managed the cutover of critical core services (**DNS, DHCP, FTP, and DFS**) with zero business disruption.
+*   **M&A Identity Integration & Hybrid Security:** Spearheaded the integration of complex **hybrid AD and Entra ID environments** for high-stakes M&A programs. Implemented Pass-Through Authentication (PTA), enforced **Least Privilege Access**, and deployed **Privileged Identity Management (PIM)** to instantly secure newly acquired business units.
+*   **Greenfield Cybersecurity Implementations:** Directed the end-to-end security integration for both M&A and demerger initiatives. Standardised the corporate security posture by deploying **Microsoft Entra ID**, the **Microsoft Defender XDR Suite** (Endpoint, Office 365, Cloud), and **Microsoft Sentinel**.
 
-### IGA Tool Unification & Attack Surface Reduction
-* **Unified four distinct IGA platforms** into a single centralized solution, driving substantial reductions in redundant license costs and management overhead.
-* **Remediated systemic identity technical debt** by spearheading a comprehensive entitlement cleanup, analyzing 400,000 AD groups to eliminate unused groups and purge dirty identity data.
-* **Streamlined identity lifecycles** by engineering automated Joiner-Mover-Leaver (JML) processes, access workflows, Access Certifications, Zero-Day Access models, and proactive Segregation of Duties (SOD) violation preventions.
+### 🔐 Identity Governance & Administration (IGA) Modernisation
+*   **IGA Tool Unification & Cost Optimisation:** Consolidated **four distinct, legacy IGA tools into a single, unified enterprise IGA platform**. This initiative eliminated redundant licensing costs, vastly reduced management overhead, and streamlined compliance tracking. 
+*   **Data Cleansing & Entitlement Rationalisation:** Spearheaded an aggressive identity data remediation campaign. **Analyzed over 400,000 Active Directory groups**, identifying and eliminating unused/stale groups to eradicate "dirty data" and mitigate security risks.
+*   **Advanced Lifecycle & Governance Workflows:** Re-engineered the **Joiner-Mover-Leaver (JML) process** to feature **Zero-Day Access** onboarding. Implemented automated Access Workflows, strict **Access Certifications**, and automated **Segregation of Duties (SoD)** validation (both preventive and detective).
+*   **Legacy Platform Modernisation (MIM to Saviynt):** Authored and executed the technology roadmap to replace legacy **Microsoft MIM** with a modern **Saviynt IGA** platform. Successfully rolled out next-generation capabilities, including automated lifecycle management, role-based access control (RBAC), and advanced privilege governance.
 
-### M&A Infrastructure & Hybrid Security Transformation
-* **Directed comprehensive identity transformations** across complex hybrid environments (AD and Entra ID) to securely integrate infrastructure during large-scale Mergers & Acquisitions (M&A).
-* **Hardened hybrid cloud postures** by implementing Pass-through Authentication (PTA), strict Least-Privileged Access controls, and Privileged Identity Management (PIM).
+### 🛡️ Cybersecurity Assessment, GRC & Multi-Cloud SecOps
+*   **Enterprise Identity Audit & Remediation Program:** Managed a comprehensive Identity Audit mapped against **NIST CSF** and **ISO 27001** frameworks. Identified and remediated critical systemic gaps including widespread MFA exclusions, Privileged Standing Access, fragmented identities, weak external ID governance, dormant accounts, and unmanaged **Non-Human Identities (NHI)** via a structured, phased risk-reduction program.
+*   **Multi-Cloud Posture Management (CSPM):** Led the deployment of **Defender for Cloud** across a complex multi-cloud environment (**Azure and AWS**), successfully driving the **Cloud Security Posture Management (CSPM) score to over 80%**.
+*   **Zero Trust Architecture & SIEM Optimization:** Designed and fully executed an enterprise-wide **Zero Trust Security Architecture** leveraging the native capabilities of **Microsoft Entra ID**, **Defender XDR**, and **Microsoft Sentinel**. Enhanced correlation rules and custom analytics to **reduce false positives**, accelerating operational metrics.
+*   **Large-Scale Cybersecurity Engagement Delivery:** Managed a cross-functional cybersecurity portfolio for a premier **US Healthcare client**. Led a high-performing team of **20+ engineers and consultants** covering Identity & Access Management (IAM), Cloud Security, Governance, Risk & Compliance (GRC), Email Security, and Network Security.
 
-### Identity Governance Audit & Modernization Roadmap
-* **Headed a global Identity Audit program** mapped to NIST CSF and ISO 27001 frameworks, successfully uncovering critical gaps in MFA exclusions, standing privileges, password policies, fragmented identities, and Non-Human Identities (NHI).
-* **Designed and executed a phased remediation roadmap** that systematically resolved vulnerabilities across external identity governance, dormant account management, and poor lifecycle onboarding/offboarding processes.
+---
 
-### Legacy IGA Platform Modernization
-* **Authored the strategic roadmap and led the deployment** of Saviynt to replace legacy Microsoft Identity Manager (MIM) infrastructure.
-* **Modernized the enterprise IGA capabilities** by embedding advanced features including dynamic JML provisioning, Role-Based Access Control (RBAC), Privileged Access Management (PAM), automated access certifications, and SOD matrices.
+# 🛠️ Key Business Problems Solved & Quantifiable Impact
 
-## 🎯Key Problems Solved
-* **Access Certification Fatigue:** Re-engineered and automated compliance workflows to eliminate reviewer fatigue while maintaining rigorous audit readiness.
-* **Uncontrolled Privilege Creep:** Successfully enforced standardized **Role-Based Access Control (RBAC)** and **Least-Privileged Access** frameworks across all enterprise application suites.
+*   **Accelerated Incident Response:** Streamlined the security operations pipeline to **improve Mean Time to Detect (MTTD) by 60% and Mean Time to Respond (MTTR) by 30%**.
+*   **Drastically Reduced Privilege Blast Radius:** Eradicated standing admin privileges across the enterprise by shifting to **Just-In-Time (JIT)** access via Entra PIM and enforcing **Least Privilege Access / RBAC** across all Tier-1 business applications.
+*   **Optimized Workforce Productivity & Onboarding:** Achieved secure **Zero-Day Access** for employees. Enhanced the onboarding and offboarding lifecycle to maximize operational productivity while eliminating internal/insider risk.
+*   **Eliminated Identity Debt & Data Pollution:** Established high **Identity Attribute Sanity**, which instantly improved the accuracy of downstream JML workflows and automated access certifications. Reclaimed operational efficiency by auditing and cleaning up **400k+ legacy AD groups**.
+*   **Mitigated "Access Certification Fatigue":** Redesigned the recertification user experience and logic within the IGA tool. Replaced blanket approvals with risk-based, intelligent workflows, saving thousands of manager hours and increasing audit accuracy.
+*   **Centralised Multi-Cloud Governance:** Created a unified, **Centralised Identity Framework** across multi-cloud environments, successfully breaking down security silos between disparate clouds.
+
 
 ### 📬 Let's Connect
 I am always open to discussing the future of decentralized identity, AI threat modeling, and scaling global security programs. 
