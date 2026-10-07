@@ -59,4 +59,4 @@ I am always open to discussing the future of decentralized identity, AI threat m
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/jaganmr/)
 *   📧 [Email](jagan.rym@gmail.com)
-*   📝 [My Resume](https://github.com/jaganrym/Portfolio/blob/main/Resume_Jagan.pdf)
+*   📝 [My Resume](https://github.com/jaganrym/Portfolio/blob/main/Jagan_Mohan_Reddy_NEN.pdf)
